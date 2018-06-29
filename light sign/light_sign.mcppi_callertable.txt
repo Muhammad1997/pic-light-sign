@@ -1,0 +1,3 @@
+main
+	seven_seg_c
+	seven_seg_d

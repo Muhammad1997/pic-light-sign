@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\mosma\Desktop\New folder\pic\light sign\light_sign.mcppi" -SP"C:\microC\mikroC PRO for PIC\Defs\" -SP"C:\microC\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\mosma\Desktop\New folder\pic\light sign\" -IP"C:\microC\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\mosma\Desktop\New folder\pic\light sign\" "light_sign.c" "l2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	light_sign.c
+diagnostics: 126	123	Compiled Successfully	light_sign.c
+diagnostics: 0	122	Compilation Started	l2.c
+diagnostics: 0	123	Compiled Successfully	l2.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)	Used RAM (bytes): 8 (2%)  Free RAM (bytes): 344 (98%)
+hint: 0	1144	Used ROM (program words): 415 (5%)  Free ROM (program words): 7777 (95%)	Used ROM (program words): 415 (5%)  Free ROM (program words): 7777 (95%)
+diagnostics: 0	125	Project Linked Successfully	light_sign.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'light_sign.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 28 Jun 2018, 02:55:06	light_sign.mcppi
